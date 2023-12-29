@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test-suite1">
+    <test name="Sample-test">
+        <classes>
+            <class name="TestNg.sampleannot"></class>
+            <class name="TestNg.sampleloginNG"></class>
+            <class name="TestNg.Basictest"></class>
+        </classes>
+    </test>
+</suite>
